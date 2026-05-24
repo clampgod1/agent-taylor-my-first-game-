@@ -112,7 +112,7 @@ Sadece `index.html` dosyasını tarayıcıda aç. İnternet gerekmez.
 ## ✍️ Geliştirici
 
 **Mustafa Bademci**  
-📧 [e-posta]  
+📧 [e-posta] : bademcim162@gmail.com 
 🌐 https://clampgod1.github.io/agent-taylor-my-first-game-/
 
 ---
